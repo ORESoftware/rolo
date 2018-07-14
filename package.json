@@ -1,0 +1,14 @@
+{
+  "name": "rolo2",
+  "version": "1.1.0-beta.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "yolo3": "1.1.0-beta.0",
+    "cholo1": "1.1.0-beta.0",
+    "lodash": "latest"
+  }
+}
