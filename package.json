@@ -1,0 +1,14 @@
+{
+  "name": "@oresoftware/rolo2",
+  "version": "4.1.2-0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "yolo3": "4.1.0",
+    "cholo1": "4.1.0",
+    "lodash": "latest"
+  }
+}
